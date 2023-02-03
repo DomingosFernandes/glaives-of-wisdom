@@ -1,0 +1,22 @@
+{
+  "name": "dota-trainer-job",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bottleneck": "^2.19.5",
+    "cli-progress": "^3.10.0",
+    "dotenv": "^16.0.1",
+    "mongodb": "^4.8.1",
+    "nanospinner": "^1.1.0",
+    "node-fetch": "^3.2.4",
+    "puppeteer": "^19.2.2"
+  }
+}
